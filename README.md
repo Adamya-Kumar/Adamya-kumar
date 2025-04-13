@@ -1,24 +1,36 @@
-<h1 align="center">Hi 👋, I'm Adamya Kumar</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+# Welcome to My GitHub Profile! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamya-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="adamya-kumar" /> </p>
+## About Me
+Hello! I'm a passionate software developer with expertise in building scalable and efficient solutions. I enjoy exploring new technologies, contributing to open-source projects, and solving complex problems through code. My goal is to create impactful software that makes a difference.
 
-- 🌱 I’m currently learning **Web Development with Advance Framework..**
+---
 
-- 🤝 I’m looking for help with **Advance language**
+## 🛠️ Programming Languages & Tools
+- **Languages:** Python, JavaScript, TypeScript, Java, C++, SQL
+- **Frameworks & Libraries:** React, Node.js, Django, Flask, Spring Boot
+- **Tools & Platforms:** Docker, Kubernetes, Git, GitHub Actions, AWS, Azure, Linux
 
-- 📫 How to reach me **adamyakumar2307@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://instagram.com/adamy_a2307?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/adamy_a2307?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamya-kumar&show_icons=true&locale=en&layout=compact" alt="adamya-kumar" /></p>
+## 📫 Contact Me
+- **Email:** your-email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Portfolio:** [Your Portfolio Website](https://your-portfolio.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamya-kumar&show_icons=true&locale=en" alt="adamya-kumar" /></p>
+Feel free to reach out for collaborations, project discussions, or just to say hi!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamya-kumar&" alt="adamya-kumar" /></p>
+---
+
+## 🌟 Highlights
+- **Open Source Contributions:** Actively contributing to various open-source projects.
+- **Projects:** Check out my repositories for innovative and impactful projects.
+- **Learning:** Continuously improving my skills in cloud computing, DevOps, and AI/ML.
+
+Thank you for visiting my profile! Let's build something amazing together. 🚀
