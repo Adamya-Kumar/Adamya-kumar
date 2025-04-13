@@ -21,8 +21,8 @@ Hello! I'm a passionate software developer with expertise in building scalable a
 
 ## 📫 Contact Me
 - **Email:** adamyakumar2307@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/adamya-kumar-3232a8255/)
-- **Portfolio:** [Your Portfolio Website](https://adamyakumarprofile.vercel.app/)
+- **LinkedIn:** [Check Out My LinkedIn Profile](https://www.linkedin.com/in/adamya-kumar-3232a8255/)
+- **Portfolio:** [Check Out My Portfolio Website](https://adamyakumarprofile.vercel.app/)
 
 Feel free to reach out for collaborations, project discussions, or just to say hi!
 
