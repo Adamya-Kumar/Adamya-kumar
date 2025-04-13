@@ -13,9 +13,9 @@ Hello! I'm a passionate software developer with expertise in building scalable a
 ---
 
 ## 📊 GitHub Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamya-kumar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamya-kumar&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adamya-kumar&theme=radical)
 
 ---
 
