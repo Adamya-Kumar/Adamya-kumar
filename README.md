@@ -1,8 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=adamya-kumar&color=blue)                                                                                                                                                  
 # Welcome to My GitHub Profile! 👋
---
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=adamya-kumar&color=blue)
-
 ---
 ## About Me
 Hello! I'm a passionate software developer with expertise in building scalable and efficient solutions. I enjoy exploring new technologies, contributing to open-source projects, and solving complex problems through code. My goal is to create impactful software that makes a difference.
