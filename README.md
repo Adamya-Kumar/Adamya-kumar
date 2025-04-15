@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=adamya-kumar&color=blue)                                                                                                                                      
-![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanE5aGt6bnZscHpsaGRsZ3Zja2llMG15Z25kczRoZDMzOXRvbnJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
 
 
 
