@@ -1,4 +1,7 @@
-![Profile Views](https://komarev.com/ghpvc/?username=adamya-kumar&color=blue)                                                                                                                                                  
+![Profile Views](https://komarev.com/ghpvc/?username=adamya-kumar&color=blue)                                                                                                                                      
+![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
