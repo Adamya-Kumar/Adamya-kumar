@@ -1,8 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=adamya-kumar&color=blue)                                                                                                                                      
 # Welcome to My GitHub Profile! 👋
 
-![GitHub](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8sO-cOgyMZRteRv6h6VkQa3rDFbAFk0sH7Q&s)
-
+<div align="center">
+![GitHub](https://raw.githubusercontent.com/hendrixroa/in-case-of-fire-1/master/in_case_of_fire.png)
+</div>
 ## About Me
 Hello! I'm a passionate software developer with expertise in building scalable and efficient solutions. I enjoy exploring new technologies, contributing to open-source projects, and solving complex problems through code. My goal is to create impactful software that makes a difference.
 
