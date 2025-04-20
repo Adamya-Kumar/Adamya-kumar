@@ -2,8 +2,10 @@
 # Welcome to My GitHub Profile! 👋
 
 <div align="center">
-![GitHub](https://raw.githubusercontent.com/hendrixroa/in-case-of-fire-1/master/in_case_of_fire.png)
+  <img src="https://raw.githubusercontent.com/hendrixroa/in-case-of-fire-1/master/in_case_of_fire.png" alt="GitHub" />
 </div>
+
+
 ## About Me
 Hello! I'm a passionate software developer with expertise in building scalable and efficient solutions. I enjoy exploring new technologies, contributing to open-source projects, and solving complex problems through code. My goal is to create impactful software that makes a difference.
 
